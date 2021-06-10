@@ -1,5 +1,5 @@
 # BragBook
-Repo to describe stuff I have done that I am proud of
+Repo to describe stuff I have done that I am proud of. There most likely will not be any files except the ReadMe in here.
 
 ## Jobs/Internships
 
@@ -67,10 +67,46 @@ Cool Projects:
 
 ## Out of School Projects
 
-Project 1: ...
+### March Madness Analytics 2021
+
+Description:
+
+### Big Data Cup 2021
+
+Description: 
+
+### 66 Days of Data
+
+Description:
 
 ## Volunteering
 
 ### Justice Page Middle School
 
+#### Math Tutor
+
+Dates: September 2017 - December 2017
+
 Description:
+
+### Super Bowl Host Committee
+
+#### Crew 52 Skyway Host
+
+Dates: January 2018 - February 2018
+
+### CEIP San Lucas y Maria
+
+#### English Tutor
+
+Dates: January 2019 - April 2019
+
+Description:
+
+### Minneapolis Cleanup Effort
+
+#### Food/Essential Item Packager 
+
+Dates: June 2020
+
+Description: 
